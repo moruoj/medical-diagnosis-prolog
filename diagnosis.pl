@@ -385,9 +385,8 @@ treatment_option(gastroenteritis, fluids).
 
 treatment_option(food_poisoning, fluids).
 
-% ==========================================
-% Search-based treatment selection
-% ==========================================
+
+% البحث بالطريقتين
 
 print_treatment_list([]).
 print_treatment_list([H|T]) :-
