@@ -1,3 +1,5 @@
+Intelligent Diagnostic System Clinical Decision Support
+
 This project introduces an intelligent, rule-based expert system designed to simulate medical diagnosis. The system acts as a smart assistant that takes symptoms as inputs, analyzes them through programmed medical logic to provide the diagnosis, and formulates the optimal treatments. 
 
 System Requirements:
