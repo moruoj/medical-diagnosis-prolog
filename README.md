@@ -20,8 +20,11 @@ After loading, start the diagnosis.
 In code write: ?- start_diagnosis.
 
 When the system asks you to choose a system, type one of these options and end with a dot:
+
 In code write: skin.
+
 or in code write: respiratory.
+
 or in code write: digestive.
 
 Answer the questions using:
